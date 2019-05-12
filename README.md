@@ -8,3 +8,7 @@ Data has been gathered from the following sources:
 3.	The Twitter API for each tweet’s JSON data using Python’s Tweepy library and store each tweet’s entire set of JSON data in a ﬁle. The outputs of the twitter API are in json and these outputs were stored in a text ﬁle called tweet_json.txt in separate lines. Deleted tweets were also stored in a dictionary. After storing the data, the text ﬁle was opened and read to extract tweet_id, retweet_counts and favorite_counts from each json content.
 ## Data Source
 All data are available in Source folder.
+## Codes
+Python codes are available in Code folder.
+## Insights
+Created insights are summarized in act_wrangle.pdf
